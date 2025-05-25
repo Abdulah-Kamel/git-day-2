@@ -1,0 +1,15 @@
+h1 {
+  color: red;
+  background-color: yellow;
+  text-align: center;
+  font-size: 100px;
+  font-family: "Times New Roman", Times, serif;
+}
+
+p {
+  color: blue;
+  background-color: green;
+  text-align: center;
+  font-size: 50px;
+  font-family: "Times New Roman", Times, serif;
+}
